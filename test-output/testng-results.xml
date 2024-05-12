@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-12T13:06:12 IST" name="Suite" finished-at="2024-05-12T13:07:40 IST" duration-ms="87832">
+    <groups>
+    </groups>
+    <test started-at="2024-05-12T13:06:12 IST" name="Test1" finished-at="2024-05-12T13:07:35 IST" duration-ms="83156">
+      <class name="DevOpsAssignment.AssignmentDevOpsCBT">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:DevOpsAssignment.AssignmentDevOpsCBT@8dbdac1]" started-at="2024-05-12T13:06:12 IST" name="beforeTest" finished-at="2024-05-12T13:06:22 IST" duration-ms="9776" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="AssignmentDevOps()[pri:0, instance:DevOpsAssignment.AssignmentDevOpsCBT@8dbdac1]" started-at="2024-05-12T13:06:22 IST" name="AssignmentDevOps" finished-at="2024-05-12T13:07:35 IST" duration-ms="73332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssignmentDevOps -->
+      </class> <!-- DevOpsAssignment.AssignmentDevOpsCBT -->
+    </test> <!-- Test1 -->
+    <test started-at="2024-05-12T13:06:12 IST" name="Test2" finished-at="2024-05-12T13:07:35 IST" duration-ms="83560">
+      <class name="DevOpsAssignment.AssignmentDevOpsCBT">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:DevOpsAssignment.AssignmentDevOpsCBT@10e31a9a]" started-at="2024-05-12T13:06:12 IST" name="beforeTest" finished-at="2024-05-12T13:06:29 IST" duration-ms="17603" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="AssignmentDevOps()[pri:0, instance:DevOpsAssignment.AssignmentDevOpsCBT@10e31a9a]" started-at="2024-05-12T13:06:29 IST" name="AssignmentDevOps" finished-at="2024-05-12T13:07:35 IST" duration-ms="65947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssignmentDevOps -->
+      </class> <!-- DevOpsAssignment.AssignmentDevOpsCBT -->
+    </test> <!-- Test2 -->
+    <test started-at="2024-05-12T13:06:12 IST" name="Test3" finished-at="2024-05-12T13:07:40 IST" duration-ms="87832">
+      <class name="DevOpsAssignment.AssignmentDevOpsCBT">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:DevOpsAssignment.AssignmentDevOpsCBT@57a3af25]" started-at="2024-05-12T13:06:12 IST" name="beforeTest" finished-at="2024-05-12T13:06:25 IST" duration-ms="12721" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="AssignmentDevOps()[pri:0, instance:DevOpsAssignment.AssignmentDevOpsCBT@57a3af25]" started-at="2024-05-12T13:06:25 IST" name="AssignmentDevOps" finished-at="2024-05-12T13:07:40 IST" duration-ms="75100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssignmentDevOps -->
+      </class> <!-- DevOpsAssignment.AssignmentDevOpsCBT -->
+    </test> <!-- Test3 -->
+  </suite> <!-- Suite -->
+</testng-results>
